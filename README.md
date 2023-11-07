@@ -12,7 +12,6 @@
   ### 배포 링크 : <a href="http://fe-004-s3-bucket.s3-website.ap-northeast-2.amazonaws.com" target="_blank">WR!EATING</a>
 <br />
 <br />
-
   ### 팀노션 링크 : <a href="https://www.notion.so/codestates/d2051baa54b94b479fdfbc260375b2d2" target="_blank">WR!EATING</a>
 <br />
   
