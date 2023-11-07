@@ -84,7 +84,7 @@
   
   ## 📗 서비스 메뉴얼
  
-  <a href="https://file.notion.so/f/s/87764714-b11a-45da-822f-ab4a82da5744/SEB_43_Main_04_team_menual.pdf?id=8131f9d7-34ca-4d6c-8958-5e33057a9b43&table=block&spaceId=82d63a72-8254-4cde-bf1e-b2597b7c099c&expirationTimestamp=1685525684937&signature=Qs8jAlQyYnmuA6cLMYeMy-js2ahK2qgMqGWRP3Q6vIk&downloadName=SEB_43_Main_04_team_menual.pdf" target="_blank">서비스 메뉴얼 링크</a> 
+  <a href="https://www.notion.so/codestates/8d7ca320764945a1a970e78ba1da0606" target="_blank">서비스 메뉴얼 링크</a> 
    
 ## 화면 구성
 |메인페이지|로그인|
